@@ -1,5 +1,11 @@
+/* ** main.cpp **
+ * Author: Gregory J. Stein
+ * Email: gregory.j.stein@gmail.com
+ * License: None; feel free to use at will.
+ */
+
 #include <iostream.h>
-#include "rect.hh"
+#include "rect.hpp"
 
 main()
 {
