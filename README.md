@@ -1,4 +1,4 @@
-# emacs_cpp_completion
+# C/C++ Completion in Emacs
 C/C++ code completion with emacs using Irony and GTAGS
 
 Blog Post: http://cachestocaches.com/2015/8/c-completion-emacs/
